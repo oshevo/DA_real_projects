@@ -1,0 +1,607 @@
+comment
+"Hello , I'm Craig and I'm a developer. My age is 24 *with a face of an old person"
+"This educator immediately reminds me of my favourite teacher of all time. I was 14 in 9th grade in New Delhi, and the teacher was Mr Atri and he taught us Mathematics. An absolutely brilliant man, and an amazingly intriguing teacher who taught me mathematical concepts, that I still remember to this day, and I'm almost 35 years old now."
+"Appreciate the pokemon reference at 24:19 mark for ""gotta collect (catch) them all"""
+"50 minutes in, how do I get the Authorization token to paste in curl format?"
+"chop a bulk of knowledge into pieces, lecture then make lil bit fun respectively. I can tell you make me fully focus on ur vid. Thank you sir "
+Right now im at 24:05 till now so much of tqlk with bad jokes as a distraction just teach what i came for man
+"Wow, it was all so clear and well explained! I even laugh a lot with your jokes.
+Nice job Craig!"
+"I was stuck at 1:41:52 . I needed to uncheck ""Disable Inherit Values""."
+THANK YOU!!
+"I hate the bad jokes, such a huge distraction!"
+I didn't know that + thing in gmail. Thank you. Will help me a lot.
+23:43
+Every school needs one Craig. 🤌
+"Unfortunately I was unable to do the Twilio part as Twilio has blocked my account right after registration. They sent me an email asking to provide the reason why I'm using their service. After my honest reply that I'm just learning API and a reference to this video, they said they couldn't restore my account because my ""use case is not supported by their service"". The video is still very useful and easy to watch, thank you!"
+You are Wonderful! Thank You for blessing Us all with Your wisdom and Expertise.
+Please stop with humor
+BALD MRBEAST!!
+"I don't know how to code yet. I am a bit lost in this video. Yes, he dresses it up nicely .. but .. not sure if he is really happy in all that mess. Maybe he is."
+this dude is saul goodman
+"I'm so hyped, and that teacher hypes me even more! Explations superb!"
+"Oh, this is exactly what I was looking for! Thank you so much, you are a fantastic teacher!"
+;-;
+"Great teacher, but I wish so many of the examples weren't done with something so ""connected."" Tons of verification required for using Twilio, which really slows things down. Twilio verification changes in November 2023 made it impossible to actually execute those examples as a hobbyist/student. If you've got some experience in development, you can adapt these examples as needed; but for novices it may be a bit more difficult to follow along than was promised."
+"I am using Windows 11 and I can not see any of the Spotify stuff you are teaching, it only work on MAC OS?"
+Worked up to 4ku on codewars learning to functionally program around small isolated problems and then ran into an API project and have no idea where to start. Forums and searches led me here. It's weird feeling like you learned something only to realize you can't do anything useful with it. Hoping this video helps! (edit on the way).
+why this guy looks like MR. BEAST father
+So API = function?
+Woke agenda in this tutorial!
+"This is great!! I am struggling in the Spotify part with the Oauth, like Dennis mentioned, the UI has changed in the dev section. 
+Has anyone been successful with the Oauth part? I keep getting a 400 error."
+Definitely a tutorial to watch for learning with immersive experience.
+I do like the fact that freecodecamp gives us these informations for free BUT I just can't stop getting annoyed by the fact that Craig Dennis used twillio api which is the company that he works for. It's like promoting yourself. I would not care if it was a free api but it is not and it's not worth the hassle. Don't get me wrong in anyway I am grateful for this course but wish he would have used a free api which would give us a tool in our repository instead of an api we will only use for 10 - 15 messages give or take.
+"00:00 Learn about APIs and their benefits
+05:10 Interfaces and APIs abstract away implementation details for users and developers.
+16:12 REST revolutionized remote APIs
+21:33 REST APIs use HTTP protocol and headers to communicate with resources.
+31:44 Spotify API uses REST principles and requires authorization for specific data.
+36:04 Creating a new Spotify account for developers
+46:00 Learn how to use curl to make API requests
+50:26 Learn how to navigate and query URLs using JQ
+59:44 Learn how to use Twilio APIs to send text messages
+1:04:08 Learn how to send SMS using Twilio API
+1:13:22 Explore APIs with visual tools like Postman and REST Fox
+1:18:06 Learn how to filter incoming messages using Twilio API
+1:28:06 Switching from GET to POST for sending messages with Twilio API
+1:33:16 Using environment variables in REST clients
+1:43:04 Postman is a powerful tool for exploring APIs and generating code.
+1:47:34 Helper libraries or SDKs can make code more concise and legible.
+1:57:22 Using asynchronous JavaScript to list messages
+2:02:19 Learn about asynchronous JavaScript and catching errors with promises.
+2:12:07 Helper libraries abstract away HTTP API calls
+2:17:02 Setting up a local web server to view index.html
+2:26:55 Serverless solution allows worry-free scaling
+2:32:06 Create a messaging response with Twilio
+2:41:41 Using Twilio Functions to Access Twilio REST Client
+2:46:38 Create a gallery of images from Twilio API
+2:56:08 Creating and consuming APIs using Fetch and JSON"
+"This video was amazing, great, just great, thanks fcc and Craig for your dedication."
+Hey someone please tell what are the preliminary requirements before starting to learn this. I am a beginner (non IT ) have some understanding in networking and python programming
+What a messed up video
+I can use Kali Linux apps can i programm
+"10mins into the course but I have to thank him for making learning so fun, he's a really good teacher!"
+Very informative! thank you !
+"for those wondering what was that on 10:22:
+
+it's in ruby language, 
+chr(ord('y') ^ 0x20):
+
+1. ord('y') : The `ord` method in Ruby returns the ASCII code of the character passed to it. In this case, `ord('y')` returns the ASCII code for the character 'y', which is 121.
+
+2. 0x20 : This represents the hexadecimal value 20, which is equivalent to 32 in decimal.
+
+3. `^` (XOR operator): The XOR (exclusive OR) operator performs a bitwise XOR operation on the binary representations of two numbers.
+
+4. ord('y') ^ 0x20 This bitwise XOR operation is performed between the ASCII code of 'y' (121 in decimal) and 32. The result is 89.
+
+5. chr(89):  The `chr` method in Ruby converts an ASCII code to its corresponding character. In this case, `chr(89)` returns the character with the ASCII code 89, which is 'Y'.
+
+So, the overall expression `chr(ord('y') ^ 0x20)` takes the character 'y', performs a bitwise XOR with 32, resulting in the ASCII code 89, and then converts that ASCII code back to the character 'Y'."
+I can't stop the video 😮😂
+"i don't want to take a single break....!!!!
+un till i understand what is api"
+👍👍👍
+waste of time
+Curl for Spotify doesn't work for me. I have 'invalid access token' error. Why?
+DI (Developer Interface-as opposed to UI) is better than API.
+I wish your video will also be available in multiple languages like Hindi. I find difficult in understanding in English.
+"I cannot verify my number at twiio, what should I do?"
+Amazing course ! I've purchased a course from Udemy that I followed during days and didn't understand APIs to be honest. But this video made a lot of things very clear
+"45:00
+1:14:00
+1:48:00"
+Where has the console gone in Spotify?
+"I am getting an unexpected token error when trying to run explore.js. Anyone seen this? I am doing exactly what I see, but in Windows."
+why does he look like Mr Beast??
+This API course is interesting and funny.
+I got a project to manage APIs and this course helped me sooo much to better understand what am I getting myself into 😂. Thank you soooo much!
+"Oh, thanks God, he stopped with the Beyonce!  I couldn't take any longer 😅 was about to quit 😂"
+"Great Course! I was trying to follow along with the Spotify example, and I cannot find the Spotify Web API console. I found a post in the Spotify community where someone was asking where the console was, but there was no response. Does anyone know how to access the console if it is still available?"
+"Unfortunately it looks like Spotify have changed their web developer user interface (in the UK at least) and the process for getting started with using Spotify's API is very different to how it looks in this tutorial. There is no longer a console that you can access from your browser, you have to install multiple ""packages"" locally on your machine.
+
+Spotify have made a tutorial (spread over a dizzying number of hyperlinked pages) to build an app. So in order to do the first tutorial for this video which requires the console, I went through some of the process (not knowing what I was installing or what I was doing) to try and get a command line environment that accesses Spotify's API, and eventually gave up. It didn't seem like that process was going to get me to a point where I could do the exercise in the video! :( 
+
+Maybe Spotify view having their own tutorial as an even more accessible developer environment, but it made following this video impossible for me."
+Thanks!
+"9 months later, Beyonce has not 32M but 46M subscribers....I wonder how many of those came from watching this tutorial :D"
+"This was a good course but it got tainted by some political biases!
+Just teach man! 
+😂😢🙄🤠"
+"How to cure depression in 3 hrs,
+
+
+This course is an excelle.."
+I wish we had teachers like him in our schools and colleges that would have made us better learners!
+41:13 ROFL
+44:49
+Rhetoric
+Anybody tried calling the phone number?
+He reminds me of Mr.beast
+Great tutorial but the Spotify signup part is unbearable.
+I like the break down and Enthusiasm
+"00:00 Learn about APIs and their benefits
+05:10 Interfaces and APIs abstract away implementation details for users and developers.
+16:12 REST revolutionized remote APIs
+21:33 REST APIs use HTTP protocol and headers to communicate with resources.
+31:44 Spotify API uses REST principles and requires authorization for specific data.
+36:04 Creating a new Spotify account for developers
+46:00 Learn how to use curl to make API requests
+50:26 Learn how to navigate and query URLs using JQ
+59:44 Learn how to use Twilio APIs to send text messages
+1:04:08 Learn how to send SMS using Twilio API
+1:13:22 Explore APIs with visual tools like Postman and REST Fox
+1:18:06 Learn how to filter incoming messages using Twilio API
+1:28:06 Switching from GET to POST for sending messages with Twilio API
+1:33:16 Using environment variables in REST clients
+1:43:04 Postman is a powerful tool for exploring APIs and generating code.
+1:47:34 Helper libraries or SDKs can make code more concise and legible.
+1:57:22 Using asynchronous JavaScript to list messages
+2:02:19 Learn about asynchronous JavaScript and catching errors with promises.
+2:12:07 Helper libraries abstract away HTTP API calls
+2:17:02 Setting up a local web server to view index.html
+2:26:55 Serverless solution allows worry-free scaling
+2:32:06 Create a messaging response with Twilio
+2:41:41 Using Twilio Functions to Access Twilio REST Client
+2:46:38 Create a gallery of images from Twilio API
+2:56:08 Creating and consuming APIs using Fetch and JSON
+01:05 Understanding RESTful API constraints"
+API Self Learning
+API
+terrific teaching but i couldn't get the image to work. the text came thru with no image and I don't think the suggested image was in the notes? I couldn't find it anyway. as a result. i also got a 401 when following the Thunder Client section 🥲
+This content is so well put together 🎉 thanks
+"Xerox (PARC) is perhaps one the most underrated companies/organizations in our history, being one of the most innovative, yet most would rather believe that Apple is at frontier of pioneerism. But did they invent ethernet? The GUI? The computer mouse? The desktop interface? Object-oriented programming language? How about the laser printer? All they have done is steal IP"
+"Youre superior for creating this hosting video! Ive experimented with HostGator and GoDaddy, however Cloudways with TST20 coupn is the best cash saver."
+I was summonded for jury duty on the day I was supposed to start a new gig.  I had to explain what an API was to the judge.  My little wheels were churning so I didn't sound condescending but explained it enough.  I came up with the Rosetta Stone translations that couldn't all be stored on a phone so API calls from a little phone app would be made to a website or cloud repository.
+Thanks for the amazing video!
+Awesome and Lively presentation
+Happy Early Birthday! (Its OCT. 9th atm)
+Who runs the terminal? Curl....Loved that Joke GOOD VIDEO THANK YOU.
+23:20
+"very clear video, thanks, everything's clear!"
+I’ve got your token and I’m about to do very evil things with it
+That little beat at 18:06 is crazy
+Thank you
+"Thank you so much for this course! It's very well made, useful and better than some paid courses I have seen."
+Craig Dennis is awesome!
+Best teacher everrrr
+55:55 did end up being so funny because i zoned out and back in and you were still talking about 'who runs the terminal' curl beyonce link. ha but i wont forget that link now either.
+"When I copy the request sample from Spotify, it's not working in CMD"
+Thankyou So much.
+"Thanks for the good web hosting knowledge! Ive examined HostGator and GoDaddy, however Cloudways with TST20 coupon is the budget-friendly selection."
+spotify console is no longer here so following along is really hard
+i cant get an accces token to run the code in my terminal !!
+"43:46 just here to say that the line on Beyonce taking the API dev to red lobster wasn't lost in the crack, clever wordplay ;)"
+42:58
+who runs the terminal?
+you are or Male or Female. thats it.
+9:35 APIs are like functions that could be called over the internet.
+"I think the API is updated, and now to get the token, we must already create our app, to get the token :("
+Exploring Spotify API and my token is being shortened.. How can I fix that.
+My curl get request isn't working in the terminal..everything seems to have changed since the time upload of this course... The token is incomplete. How can I fix that
+"I couldn't get the Twillio command line code to work, and kept giving the error message that no credentials provided. Twillo must have changed regarding using a test account in command line, because the support materials state that ""Twilio test credentials will not work with Twilio CLI"". Otherwise, I agree that this is a good course. I know things do not remain the same and get changed sometimes."
+Did anyone have any issues trying to find Console on Spotify. Wanted to follow along but I guess Spotify updated and I could not follow along
+The Spotify dev page has changed considerably and feel its extremely difficult to follow this class now.
+I don't know why but this guy is look like old Mr.Beast🥲
+Craig looks like Mr beast grandpa
+49:15
+Was the best course until you stopped talking about the course information and starting talking about people's gender
+"Htt P
+Htt P😂😂😂"
+Spotify has changed their api docs. There isn't a console anymore.
+"Most WOKE teacher ever. Why is he apologizing after making EVERY pun. If you're so embarrassed after making it, just don't make it. Ruined all the fun of those pins with his followed apology."
+"@app.post(""/API"")
+async def post_comment():
+    return JSONResponse(status_code:200, content=""fCC you rock!"")"
+"I can't do the Spotify Web API from my terminal because it hides the access token. Even when i hit the copy button on spotify, it still doesn't give me the complete token and then says ""invalid access token"" for the error reason. The interface has changed quite a bit since this video. There wasn't anywhere to create the token, and it certainly doesn't look like the one in the video. So none of this works for me."
+You cannot - prove any API - with TTY!
+"The course is going great so far... One thing though, how do I get the Oauth token from Spotify's api from their updated website? That has been an issue."
+This guy has the maximum value of charisma 😄
+"THIS GUY IS AMAZING
+
+He’s hit all the right spots of a good course!! 😊"
+Consult and implement your API integration.
+😘
+pretty good job thanks!
+Huge thanks to Craig Dennis and FreeCodeCamp! This is truely an amazing and helpful video!
+"I just cant find the way to generate the TOKEN, it seems the interface changed and well I am stuck there."
+Great course. Thanks so much for referring to your first example programmer as “she”. ❤
+My kind of teacher
+If api is not invented  what would happened
+Best teacher I ever met
+51:10
+Boo on the inclusivity add just teach us about API's
+Thanks
+"I love your teaching style!  Makes it less daunting to learn --- I did get stuck on the Twilio example, when I ran the curl code in colab.google, it returned a SyntaxError: invalid decimal literal - I tried to figure it out but it was over head.  I tried to find that darn decimal and could not.  Any direction would help, please. Otherwise, thank you for taking the time to make this for us who need it!"
+that video is very informative helped me a lot to understand Api's
+"Ok, at this point I need to donate or something, because this is such high quality educational content."
+This is one of the most playful and fun tutorial freeCodeCamp has ever added.
+"The spotify developer CONSOLE isn't currently available from Jan 2023...
+Please update the course :)"
+Very good content by the way!! I found it hard to learn elsewhere the new tech since last 13 years. Recently I got my visa approved for Canada and I m looking to move there. I heard they have more requirement for this skillset in combination with mainframe. Could you please elaborate how mainframe use restapi as a front end. I think I heard you saying api is always backend so what is my company implying by using backend data with involvement of z/os connect and postman. We use 3270 mainframe systems and 3270 online (front end system). I heard they implemented  a system fix by using Cics cobol program by sending some data to Cics and that data I guess was pulled by z/os somehow and it was getting rendered on a website in form of something. Looked like someone created a restapi services using postman and this new api was accessing data from what was printed on a Cics job running in queue online during the day when the developer test his changes which is sort of making sense now.can you help me understand if I m understanding it right ?
+"Dude, you saying too many pointless words in between, that i just cant follow the course!"
+"if anyone is losing their mind because the jq wasn't working, be sure you have it installed first!  🤦‍♀"
+2023-08-22 paused 54:00
+"Just, only watched this, will go back and do all the bits n bobs.  Great course, explained stuff to me in the words that I needed.  Thank you!"
+kay9am3ouk satat
+"I keep getting an empty pics array at Unit 3 - Video 3. @2:54:33
+I consoled log the following:
+const pics = await message.media().list()
+It results in an empty list and after hours searching for the problem i cant figure out why. Somebody help please :("
+do you guys have a discord community where you can interact with  other programmers on your project?
+Sir can I become your student
+"Man, the asynchronous js I learned a month ago finally synced in when I watched the video 6. THAT'S HOW IT WORKS!!!!! Awesome tutorial."
+"30 minutes in, and I'm still not sure what an API is."
+Thank god let you go to me 🙏🙏
+37:30 someone points a gun at poor guy's head
+@37:30 🙄
+"Very good course if you can ignore the unreal amount of cringe that this guy is capable of. A pop culture reference or joke every 2 seconds, really a soyboy cringe fiesta.😢"
+Thanks!
+Tried to sign up at twilio but couldnt authenticate and support didnt reply. Other wise good course.
+Best videos
+nice video
+Feedback: Please mention about windows not needing the backslashes in the terminal earlier. You mention it around 1:07:30 when it would have been better to mention it before actually copying and pasting cURL stuff into the terminal
+My bookmark 23:57
+"49:54
+I'm stuck at this part as Spotify changed how to get access to authorization token. You have to run a curl command but when I copy and paste in into my terminal, changing the necessary parameters as needed (Client ID and Client Secret) it doesn't work (I'm on Windows btw. I made sure that curl is installed. It is)
+What am I doing wrong?
+
+Edit: Nevermind I got it to work. Its a bit annoying that the text editor I'm using (Notepad++) to post the copied code into first to be able to make changes to the parameters, doesn't allow me to copy and paste the code from the text editor to the terminal. I have to get rid of any newline characters. If anyone more experienced then me can give me some good text editors to work  in, please let me know :)"
+"Did anyone else have a problem getting the gif they sent at 1:42:06? I keep getting this error: Error when sending request: ENOENT: no such file or directory, open '/home/myName/.config/Code/User/globalStorage/rangav.vscode-thunder-client/files/file_Collier 3849f68b0197.gif'. I am unable to access this path as the folder 'files' under rangav.vscode-thunder-client is not present."
+"Great course, the teacher explain very good each content"
+"Thank you I am trying to catch up on technology enough to understand what is being said. Everything is connected to, used by, or based on other things, codes, protocols... okay that list could go on. But the only thing I knew about API's was that my WordPress needed one and I have to update mine every once in a while. I knew it was a type of identifier but that was all. Then I started hearing more talk about API's in the talks on AI (Artificial Intelligence)"
+Very well explained sir. I have loved the examples. Thanks so much!
+"12:14 - Cha Cha Cha,  Käärijä? 😅"
+thanks for valuble inf sir.
+I was assigned a task at my job to do some testing automation using APIs and this course was a huge help. Always try to find a real world problem or something to apply what you learn to for maximum advantage
+An excellent instructor explaining a not so easy topic
+This is cringey. I'll find API tutorials elsewhere.
+Your beatboxing is atrociously cool 
+"now spotify has changed it's developer options , i can't get it's Oauth token"
+Thank you
+"Male and Female are the only genders that exist.
+Let's not normalize gender dysphoria mental illness."
+hELLO
+"Now we know why the world is in disarray ""GIRLS"""
+"the best instructor I came across so far, simply the BEST introduction to API !!"
+He is just such an awesome person. I'v never been to a class where the teacher asks me to take a break
+13:20
+This man had to change his phone number.
+"i'm only here to try and connect freedomGPT to ultimate doom
+i want to see if it can play a perfect game can anyone help me accomplish this!
+it told me it needs to connect to the API"
+Thanks so much for such an awesome video!
+ليتك تكف عن المزاح
+"Superb course, Thank you FreecodeCamp"
+kartik sapkal from terminal
+God i love the way he teaches
+Thanks!
+"Anyone else having trouble in Unit 2, using Restfox for that first POST lesson.  I keep getting error"
+"Hi, Why cant we see the developers option in Spotify , when I try I don't see a developers option mentioned in video !"
+"Thank you, Chris Hardwick's doppelganger. Only a third of the way through but I'm enjoying it!"
+Can't get Authorization by Spotify. Who cam help me to get it ?
+It was a good start till the interface in api was explained. But after that I find it difficult to follow as a beginner in this field. It was very much engaging though. Would have been better if things were made simpler to understand.
+You guys are amazing what a great job ❤
+Is there a summary of this course? Why does using API need a 3 hour video? Just get the key and Read the Manual on using the proper tools and parameters??
+"Can anyone help me, where can I find notes for this course ?"
+"tommorrow i have to submit my final year CS project Synopsis , and here i am learning APIs  , what can i do"
+"Hi, Thank you for the great tutorial,. I have a question, do I need to have a premium account to follow your tutorial? because I don't get the option ""Get Token"""
+"The developer page has changed, and I am having trouble with the OAuth/token any tips or help would be greatly appreciated"
+Awesome
+This is SOOO good! Thank you for this awesome course! I feel the power!
+the only thing i achieved from this video was confusion . it was too cumbersome and i just found it really hard to grasp
+Im getting empty message but i followed all the steps @1.25mins. The response was 200 which is sucessful but my message was empty. I need help please.
+so frustrating - MAJOR issues with accessing the Spotify web api via Terminal. They changed the whole dev interface. I keep getting 401 errors when I take the code from Spotify to my terminal.
+48:25
+"Its awful that Twilio blocked my account as soon as I created it, I think because I live in Russia"
+Whats the name of the type of music played during the breaks? they are so relaxing!
+"i stuck in 49:10, still can't figure out why i can't get spotify artist or playlist locally using windows powershell"
+"this course no longer works, the spotify webpage is totally different and it doesnt even give u the code with ease, would recommend people to follow another API course."
+i love u
+3 minutes in and the guy is better than any teacher or lecturer ive ever had
+nailed it. thank you
+"can any one share summary,main points of this whole video like what is the main idea... if any one have made notes of this video than please share in text form. thanks"
+Wow amazing tutorial!!! GOAT!!!!
+"Can i just say how impactful it was for you to make your developer a “she” at 6:53
+It’s little instances like that, that you may think people won’t care about or notice but just about made my day. Representation 🙌🏽
+
+You are a great teacher! Off to watch the rest!"
+Thank you! You guys are awesome!
+can anyone help me out
+unable to find console in spotify
+"Spotify Web API Reference is changed and now that whole part of the course isn't so easy to follow --- cant get curl to work right with the samples they give, nor do I think spotify so freely gives out the key code in terms of ease of access"
+"Great video, thank you."
+"Fantastic content, keep it up!"
+❤❤❤
+Your style of delivering the material is absolutely fantastic. Thank you for your hard work!
+Let me just thank you! Before watching this video API's were so scary to me. These days I feel a bit more confident because of your help. Thanks.
+37:34 tell me youre a braindead npc without telling me youre a braindead npc
+I screamed P
+The Best of Best course ever seen in youtube.I guess i found this earlier.Thank you for making it free
+can he make a video on how to teach .
+"Waste too much time on ""jokes"""
+This is an excellent video! Thanks very much for providing this great content!
+"honestly, whoever came up with the idea of making idiotic jokes every 30 seconds has no idea about learning process. jokes are ok to make once in a while, but every 2-3 minute chunk of the material is filled with stupid, disgusting jokes. may be they are not disgusting per se, but the context and the frequency make them perceived as such."
+This is excellent. I followed through from start till finish nobody could make developing and programming easier than this beautiful piece of tutorial. Thank you for your sincere effort to helping others. I will watch over and over until I am able to independently build APIs and consume same.
+I couldn’t get my token form spotify ….
+I chuckled when his voice got a bit shaky around 37:40.  Story of my life.. lol.  Or at least where I live and work..
+Did anyone else encountered this error `Unauthorized - you are not authenticated to perform this request` after deploying the HTML app and how to fix please?
+"Awesome course only issue was that I was not able to complete the send text  request since the twilio api links to members of the US only and I cannot be able to send messages.
+Thank you for the course, really helpful for starters."
+18:43 Universal Resource Locator
+I wish every YouTube video would encourage me to get up and move around for a bit! Love it!!
+I love watching YouTube and learnin new stuff i always come to YouTube when i want to know something .
+"The way you explain never makes me bored, thanks!"
+This is completely off-topic but am I the only one who sees some @MrBeast in him??
+Am i the only one who thinks that he looks like mr. Beast
+https://youtu.be/WXsD0ZgxjRw?t=2955 - The Authorization token in the curl request samples on Spotify's developer page is no longer available to copy to a REST client. This means that following this tutorial will result in authorization failures.
+44:45 you got me Craig. Ofcourse with this level of engagement of anyone would binge your tutorials ❤❤
+"Turned it off at the 37:25 mark.  Absolutely ridiculous.  There is no need to fuel the flames of mental disorder.  There are only 2 genders.  There always have been.  That is just simple science, and a natural law of the universe / mother nature.  Saying that is not un-inclusive, it's literally just a fact."
+"Love this course, but the amount of commercials is insane."
+"Absolutely love the energy, wonderful instructor!! Thank you all so much for the free knowledge ❤"
+"Very nice course, thank you."
+Loved loved loveddddd this! Thank you ❤
+3 hours of Ads
+API is not an acronym; it's an initialism.
+"maybe an interesting course, but spotify changed, twilio tells me, my (german) phone-verification-number is expired (5 sec after receiving ), for me it makes no sence to continue. Who knows what will be after 1 or  2 hours learning. Not happy :("
+"For the windows user, I'd suggest using gitbash instead of the command prompt. That way, the commands used in cURL are the same just like mac and linux."
+Oh! I love this teaching method 😍
+"Came here because everything in the cloud is an API call. Anyway don't mind me just making myself some notes:
+
+Interfaces provide a way of using/interacting with sth
+API allow programs/programmers to use stuff without knowing the implementation for common enough tasks"
+"The teacher earns my attention from the first second. this video was recommended by youtube and i am so excited! I am learning python, and why not to take a course on api's by a great instructor? so excited! Your students and your family must be proud of you. I have take so many online courses, i have to say you have the best way of teaching. Thank you"
+"With Neurolinks coming, you mite get to download dancing."
+So is this video the course
+video 3
+21:09
+love this
+What should i watch first https method video or this API one
+But where is the developer console? Has it been renamed or what? I'm stuck.
+"Hey everyone, unfortunately he is right about the Spotify page being different. Problem is, they've removed the ability to generate authentication tokens and curl statements in the browser and while still possible, it's a much more difficult process. I'd recommend just watching the Spotify part and then jumping in at the Twilio part."
+Need free ecommerce api with multiple categories and products
+13:45
+I cannot find the console page in Spotify developer page.
+This guy is amazing. I am wondering how he makes study so enjoyable. I want my kid has teachers like him. Even breaks are included. Wow.
+Brought to you by twillio lol
+"That was a great course. Enjoyed it so much. 
+I am curious if it is also possible to receive a certificate after testing our new knowledge of this course?"
+I don't understand a word this guy is saying
+There should have been projects in course to build along making apps sending and getting api requests
+❤
+is a scam
+accointing by glass mode is a seam
+accointing
+am subscribe
+did not understand some my dig not understanding wont wont go my brain brain wont ferda it must be drunk not for this i watch it
+"I keep getting this message when I tried to install Curl on my Mac "" curl: (22) The requested URL returned error: 404"" any help on how to proceed will be appreciated, thanks"
+just 10 min into this video and I fell in love with his teaching. WOW
+"great tutorial, I've had fun the whole time while learning but I'm trying to use Twilio and phone number verification is not going through, I am in Nigeria, please is there a workaround for this challenge?"
+"Good teacher, bad course material!
+- Spotify API is changing so fast, that I could not find the curl requests you show on the current Spotify site.
+- Twilio might be a cool website, but no way I give my Number and E-Mail to try it. 
+- You explained really good at the start, but then you started talking mostly about the company you work for (twilio) and things that are not important.
+
+Honest review: 2 of 10, and 2 is only for the sense of humor..."
+"This course is amazing, but since it was creating Spotify recently updated their entire Developers section and the console is missing entirely and I can't figure out how to get the oauth token. 
+Anyone figured this out yet?"
+its okay
+"Great tutorial, but sadly Console is gone with Spotify. :("
+"Hey folks, can I know what has been deprecated?"
+I love this class! Anyone else getting a 502 Error for the Twilio Developer Documentation?
+I just cant understand how to use curl with windows!!
+"if gender is not a problem, why did they ask"
+"Craig is a very fun and enjoyable instructor, but this whole video is pretty much a ___ Twilio ad___
+
+ I signed up and used it once to send SMS, but not likely to use it again. I did watch whole video, made notes."
+Amazing way of teaching!!
+why as a developer you cannot afford a better quality microphone
+37:18 1999 ganggg
+"1:09:15 at no point in my life has anyone ever told me that ""Ahoy"" was ever an unofficial way to greet on the phone."
+"Is this the best teacher I've ever come across? 🤔
+Yes it definitely is! I love this man. Made learning so funful and enjoyable. You just can't skip any part. I rewind when I miss a single statement. Thanks a bunch for letting him teach. ❤"
+spotify changed its configuration completely and now i am completely lost .... :) seems waaaayyy more complicated to get a token ! i am sooo lost omg :(
+is it just me or it IS impossible to go on Twilio ? i have been trying to create an account multiple time with different email and everytime i try to sign in the page refresh over and over again and tell e there is an error. i did try to reply to trilio's message when they sent an email about verifying my identity to protect them of fraud but they never replied back ! and my account is still blocked ! and when i try to create a new account it does the same thing again!
+I have no idea how to request oauth token from this new Spotify UI. It seems like we are required to have an app with URI provided. Anyone has any clue?
+"the guy is a truly righteous and son of god, he deserves heaven"
+You are a brilliant and gifted educator. Thank you
+"bruhhh, this guy is soo fun."
+"I have not decided if this is a good course or not. For instance, I thought the speaker was saying 'restbox'. There is a 'restbox' out there but does not do what his did. I played him saying it over and over. After reading the notes, I learned he was saying 'restfox'. He needs to speak SLOWER and enunciate clearly. One should not have to rewind over and over again just to get a simple point."
+Bookmark 7:53
+I wasnt able to find this console thing on Spotify at all
+"This course has been an incredibly fruitful experience for me, and I can confidently say that it's one of the best things I've ever done in my life. As someone who has been programming for almost a decade, gaining a deep understanding of how APIs work has taken my skills to a whole new level.
+
+I'm truly grateful to have had the opportunity to take this course, and I want to express my appreciation to those who made it possible. This is exactly how education should be: interactive, engaging, and straight to the point. The practical, hands-on approach of the course has allowed me to learn and apply new concepts quickly and effectively, and I'm confident that the knowledge I've gained will prove invaluable in my future endeavors. Thank you again for creating such a fantastic learning experience."
+35:00 ...Awkward...I was peeing...🤪
+Bookmark : https://youtu.be/WXsD0ZgxjRw?t=3686
+Learning this is no use anymore.. all this is absolute. AI taking over the world
+Hey When did Mr Beast Started teaching.. 😅
+"My jq did not work. I get 'jq' is not recognized as a in internal or external command, operable program or batch file."
+"Non-Binary and ""I dont want you to feel offended"" what a moron"
+8:00
+extreme cringe
+"URL is Uniform Resource Locator, not Universal. I only know that because they also got it wrong on University Challenge"
+"Sorry if this has already been addressed, but I am stuck at 1:57 because I am on windows and neither the Linux or the windows options worked to load the environment credentials.  Anyone else have this problem and maybe a hint what to do?  Great video btw, thank you!"
+Thank you so much. I learned a lot about APIs from this course.
+"1 - This such a great great class, I'm following everything and learning gobs since I've been out of the programming world for 10 years.
+2 - Small issue on setting up RestFox to send the DVD picture.  No matter what I did it would not send.  My final troubleshooting step was to send a very small picture, and that worked.
+Is there a size restriction causing an issue or am I using the wrong URL?  What is the URL?  It is not in the notes...
+3 - The notes for Unit 2 Video 4 are very very sparse, can they be touched up?"
+"spotify apis are only available for the US, UK, Ireland, New Zealand and Australia markets ??"
+I got completely lost at Unit 2 Video 4 @ postman/rest fox....I guess I'll give your first video tutorial I see others mentioning a try
+"Perfect video for API, thanks, Dennis!"
+Great Course 😜
+5 minutes in and am already a fan. You are a new subscriber :)
+0:02 Steve Jobs is that you? 😅
+"I learned about this concept in school but it was only briefly covered in a database class and I never understood the point of it until my last job. They were manually configuring hundreds of appliance-type devices through their web UI's which took hours of work. One small change request was many more hours of work again. I realized that these appliances had an API and we were able to reduce hours of work into minutes by writing scripts that took a list of IP's and sent API commands to each device in the list. I did the same thing on another project and cut my estimated completion time in half. 
+
+As someone who is in IT but is not a developer, even I could see the enormous power and potential of the API. It opens the door to automation, which reduces human error dramatically. It also speeds up onboarding. I am looking forward to watching this course and learning more about API's and their other uses."
+how do you send message at 2:35:32
+Awsome vid... I can only thank you for your effort and time by delivering this amazing tutorial.
+Best api course ever. I never saw any teachers make learning course enjoyable as much as Craig Dennis. He even teach people to take their time to relax and think.
+2:01:51
+"What a great video!  This couldn't be better explained.  Thanks!  And, BTW, is that an 8-track player on the table, next to the chair?  How old school cool!?"
+"This tutorial does not work for Windows unfortunately, unless you have the patience to do a lot of Stack Overflow research to find some workarounds to the constant errors."
+Do I need to install anything to use jq? I am using windows 10 for enterprise
+This is a big move of educational revolution. I have started my self study programming journey from fcc (from zero level) and right now I am in confidence level. THANKS A LOT the whole fcc org and god bless u all. From Burma..
+What actually is an API? After lots of code on APIs time to know what it is
+How can you move the cursor to the previous line at 1:07:13? Struggle doing that
+It's amazing that he keeps telling us to take a break when I tried to binge the video :))
+a lot of paience
+Did you really need to include all those cringey corny jokes from the old video? 💀
+"37:36  ""prefer not to say"" maaaay be a valid option for you, 
+BUT 
+you Americans & Europeans need to understand that gender IS BINARY because of physiology. 
+No matter deny it or run away from it."
+Wow this video came up at the right time.. Thank you FCC.. And thank you Craig for making this a fun journey. You have done a really amazing job at not making this tutorial a boring one. I really loved the breaks and the things you did to keep the learning interesting throughout the video. I wish we had more trainers / teachers like you! You rock!
+"Great stuff and well presented, thank you! However, I'm a bit stuck on the terminal/cli/shell thing. I'm running windows 11 and there seems to be the (to me good old) command prompt cmd and the newer powershell. In neither of these does 'say' work nor does it tell me what shell I'm using with 'echo $0' 🤔 Hayelp! Hayelp! Somebody help liddle ole me! 😟"
+10q profaser i have leseneng mor than 3    ...4.... timems naw i tinck i gone get samteg so tanqu agen .i am kepeng lesneng waching  and pracktesing agen and agen antel i intrnalythe all tinkes .10q agen .
+haha this guy is awesome!
+I can tell this man likes and has eaten many burritos.
+2:15:30
+WOW !!! Your Voice sounds like All THREE STOOGES wrapped into one with all sort of Up and down range in tone.  You gloss over a plethora of terms and really explain NONE of the actual terms and yet you think we should somehow know what you are talking about FOR BEGINNERS .  Perhaps all of your FRIENDS who commented here to boost your rating or Seasoned Programmers who have already a good general understanding of all this UNDERSTANDS what you are talking about.  I have watched the first 30 minutes  3 TIMES IN A ROW ( thats an hour and a half of Gibberish ) and I have NO IDEA ZERO IDEA of what you are even talking about.
+12:14  Cha cha cha
+Thanks fro this toturaial to API. 😋
+"The Teacher Is Very Energetic, Joyful and Good At Teaching. Attracts People's Attention Without Boring Them. I Enjoyed His Teaching Style."
+"Thank you very much, a very good job. I hope to learn more about API and this is a good beginning."
+she might take the api down to red lobster !
+jq is not just working on  my windows laptop
+Am I misunderstanding something or you need an American phone number to be able to send to your Twilio phone number in the trial and follow along with this?
+14:00 ..... Is that a radio with a 8 track ??
+This is a great course 🥰 .... but the problem i face all the time is that Twilio restrict me from getting a Twilio number ....My first account suspended by them after 1 second i created it......  After that I created another account with another email but they restrict me from  getting a Twilio number.... Also no replies to emails...Now i am stressed 🤕about this struggle...I was not able continue this course for two days because this issue... Feel like to give up this tutorial😥....is there a alternative to Twilio for following this course?
+WATCH THIS VIDEO YOU WILL NOT REGRET IT!!!!!!!!! Such an amazing teacher! Thank you for such a wonderful course!
+"When I open the url for ""who runs the world"" search in the browser, it just opens the Beyoncé page, but not the song itself. I noticed that when he does the first search at 54:46, even though it brings up the wrong artist page, the Beyoncé song is there already at the bottom of the page - I guess because that’s the last song played on his Spotify profile. So that when he then puts in the correct url at 55:40, it brings up Beyoncé’s main page, but the same song is still there. Did anyone else have this happen to them and did you manage to show the correct track that was searched for? The url itself seems to only refer to the artist, but not the search for the track. Thank you!"
+I love it when you call me big poppa hahahahahahahahahaha 😂
+"pls i need help. when using the spotify API, the api  testing result on the spotify for developer website   is different from  that of  my vscode terminal testing result"
+40:33
+8:49
+Thanks for this - helped tonnes.
+Love learning API from Mr.Beast👌
+best API course on YouTube
+this course was brilliantly taught..
+"Ok ChatGPT, explain this to me as if you were Craig Dennis 🥰"
+Best!
+I love this guy's charisma
+Thank you for this lecture.
+this whole course feels a bit condescending
+Please make a course on laravel 😭😭😭
+Super insightful course. Thanks Craig and freeCodeCamp.
+"I want Craig Dennis to teach me all the hard things in life: explain clearly and positively, tell me that it's okay to pause, give yourself time, be patient - these are important steps in any new business👏👏👏"
+I want a Oracle sql and plsq.
+"Lost patience at the cringing worship of Spotify, and downvoted. Brands are not your friends and being a good consoomer shouldn't be mistaken for  being a good developer."
+Getting back inteRESTing data back from an API. Very clever. 🙂
+This was fun :D
+"Thank you for making this free, I feel such great gratitude! ^^"
+Good one!
+How about I have a DHIS2 database and it doesn't have an exposed API to consume the data stored in the DHIS2. How then do you create an API to consume the data. I was thinking this is what this tutorial will be addressing and not the conventional API tutorials.
+Are you using Terminal on mac? The part where you typed jq and changed colors nothing happened for me.
+How does he look better than 3 years ago. Kek
+Three minutes into the video and I've learned absolutely nothing about api. I doubt the next three hours will be any better. Time to cut my losses...
+"I love how he teaches this guy, he reminds me of Jesse from Breaking Bad. I have understood things and learned new concepts so I see the light! Thanks!"
+I just want to let him know that I actually laughed at the 'who runs the terminal? curl' joke. dad jokes ftw
+Congratulations
+This is the course that actually thought me how to work with API's
+"I ran the same code and it returned an external URL for Rihanna's artist page. No matter which way I try it, it won't return Beyonce. Weird. Not sure what I did wrong or how it keeps connecting Rihanna from Beyonce. I don't normally listen to either so it's certainly not some stray data throwing it off."
+"Absolutely love the tone and approach to this course, and thank you for making this free!"
+Thank you.
+Wish this was written with python
+"| jq 
+doesn't work on my computer 😂😂"
+Thanks for this awesome tutorial
+Amazing teacher ❤️ 👏
+"Please add advance modern backend development with Nodejs and Mongodb, redis with advanced aggregation and all useful npm packages"
+Is replit based on API? As we can see all the server code running on browser
+"I could use an API to abstract away the ""cutesy"" parts of this presentation which would cut it down at least 40% of the distractive nonsense based on what I've seen so far. I also acknowledge that this could be valuable for some people,  but not me."
+"Vernon Howard: ""All your costumes are put on in a moment of spiritual sleep."""
+"got through the whole thing but when i try to view the index.html, the link to my picture is broken, and on the other hand... i really want a burrito."
+It kind of starts 5 minutes in
+2 minutes into the course and already 'I'm Lovin It'
+i can't belive i just saw this video for free. you guys are incredible
+"Great video up until the point we are messing with VS Code. I can not, for the life of me, make it work in Windows. I get error after error after error in the terminal (PowerShell) even after following your docs on the description for Windows."
+I would like to thank you here from Brazil 🇧🇷
+thank you
+"Bonjour, thanks for video tutorial, can somebody teach young two ladies for programming android?❤❤"
+"Very nice
+🇦🇪🛫🇧🇭🌹"
+"Fantastic tutorial!
+I really felt like watching the 5th Season of ""The Last Man on Earth""!
+He repopulated the Earth.
+Now teaching humanity how to use APIs again! 😉🥳"
+Can someone pelase tell me how to get permission to get number 1:02:55
+HI. It is good tutorial but what about those who use Windows? It have encountered so many issues just running the VScode...
+Huge thx❤
+"Apart the cringe humor, he is very charismatic and fluid explaining things. Thanks for the video!"
+I'd prefer that Spotify not ask gender.  Why do they care about that?  It's not being inclusive.  It's intrusive marketing.  Don't be naive.
+Amazing video.
+THANK YOU SO MUCH!!!
+"""Education isn't meant to be binged and because of this, I'll probably remind you quite a bit to take breaks."" ~ The best quote I've heard today."
+Fabulous course! Thank you ♥️
+The instructor looks like mrbeast's father👀
+This video is amazing. I can listen to this guy all day. Thank you very much
+🔥🔥
+Detailed Explanations! Great Course for beginners
+Thank you so much for this 🙏🙌❤️
+This is really very excited to me and the host is awesome and the interaction with people is woow
+Thank you so much sir🤝 Your work is very impressive👍❤
+May I get a suggestion on how to Create an API?
+I was just watching the old version. Great to have a more detailed version
+"Thank you so much for sharing this with us on YouTube ❤️‍🔥 from Kyoto 🇯🇵 
+
+His API course is hands down the most accessible and life-changing for dummies like me"
+"Definitely not for beginners and I haven't learned that much, only a few key words like REST, CRUD, CURL, POSTMAN and the course has taken 3 hours of my life...
+I don't know why you're using Twilio as everything... you said Postman is complicated, Twilio is on a next level of 'complicated'...
+Why not use Visual Studio Code and start from scratch using only this editor and show us how to start and finish A WORKING PROJECT. You're trying to teach about an API. So start a project in VSC, take a dad jokes API as an example and teach us how everything works. The main objective to use an API is for a website to be interactive and right now I don't even know how to implement an API on a website so I can extract a user's custom query and show that data on a website as a result...
+
+That's the problem with tutorials right now, they're very long and not practical unfortunately."
+dude you’re such an awesome instructor. i hope to one day be like you!
+"I just finish his old api course, now there's an updated one?"
+I really love this man's energy he makes learning not feel cumbersome at all
+Wow this is the kind of teacher that inspires me the most! Thank you
+"I haven't made it through this yet, but this is very good.  Great work"
+The best video about API
+"Very fun and cool, I will finish it by tomorrow to have a total understanding of API before using it"
+Craig's videos always radiate warmth
+The production quality here is amazing.
+Maybe sth about Wiremock? :)
+when I say foo! you say bar! lmao
+This educator is really engaging. Great job.
+I like the way the tutorial incorporated humor 😁Thumbs up!
+❤❤❤❤
+You just entered my exact date of birth 🧐
+Does he have YouTube channel?
+"this is awesome, thank you!"
+Amazing tutorial to follow 😋
+Thanks!
+"You are so great 😍, I was waiting for your video ☺️ thanks a lot"
+"the jokes are really good they don't make me laugh from stomach but an entertaining chuckle is enough
+to keep me going"
+"the video is so well created 
+the editing is extremely good
+and the explaination is good the fact that first few episodes are just exaplaination is good really good"
+Really excited for this one. Saw the first one more than 5 times and enjoyed it everytime. Love that it is once again being refreshed.
+what’s the difference between old and new one?
+nice!!
+"Wow, what a great timing!! Will update here once done.."
+It's about time
+"i've been waiting for this, thank you"
+Where is the course for writing an API ? It already exist on this channel ?
+"Thank you, I was going to show the old video for my class to use APIs starting this week"
+Are you going through my search history?
+thank you
+Awesome!!
+I will come back in 10 years to see if the likes to this comment is at least 10% to the likes of the video. FOR NO REASON.
+👏👏👏
+Thanks a lot
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+"Wow! It's like FreecodeCamp is really reading my mind. Was planned to learn API's and Voila, Look what I got today!!!"
+I didn't knew Mr Beast had a brother
+Was waiting for an API course for a while!!! 🎉
+എൻ്റെ എല്ലാവിധ ആശംസകളും 😜
+Not watched yet but I know it’s fye 🔥
+Wow
+"Hi, I'm from São Paulo!"
+"Oh, I’m ready to binge this!"
+First
+First
+First view and comment along with like
